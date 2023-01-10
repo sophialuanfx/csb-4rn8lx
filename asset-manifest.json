@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sophialuanfx.github.io/csb-4rn8lx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/main.5c6b3577.chunk.js",
+    "main.js.map": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/main.5c6b3577.chunk.js.map",
+    "runtime-main.js": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/runtime-main.1ed04057.js",
+    "runtime-main.js.map": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/runtime-main.1ed04057.js.map",
+    "static/js/2.4ef2accf.chunk.js": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/2.4ef2accf.chunk.js",
+    "static/js/2.4ef2accf.chunk.js.map": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/2.4ef2accf.chunk.js.map",
+    "index.html": "https://sophialuanfx.github.io/csb-4rn8lx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sophialuanfx.github.io/csb-4rn8lx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4ef2accf.chunk.js.LICENSE.txt": "https://sophialuanfx.github.io/csb-4rn8lx/static/js/2.4ef2accf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed04057.js",
+    "static/js/2.4ef2accf.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5c6b3577.chunk.js"
+  ]
+}
